@@ -1,0 +1,8 @@
+#To Run Fronted
+
+npm run dev
+
+#To Run Backend [API + Routes]
+
+1. Open the BookMart-MockServer in new Window
+2. npm start
