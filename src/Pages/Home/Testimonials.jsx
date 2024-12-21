@@ -122,7 +122,7 @@ export const Testimonials = () => {
               alt="user"
             />
             <div className="space-y-0.5 font-medium dark:text-white text-left">
-              <div>Ayush Chaucha</div>
+              <div>Ayush Chauhan</div>
               <div className="text-sm font-light text-gray-500 dark:text-gray-400">
                 Book Blogger & Reviewer
               </div>
@@ -149,7 +149,7 @@ export const Testimonials = () => {
             <div className="space-y-0.5 font-medium dark:text-white text-left">
               <div>Anushree Nautiyal</div>
               <div className="text-sm font-light text-gray-500 dark:text-gray-400">
-                Travel Writer & Book Enthusiast
+                Travel Writer, Book Enthusiast and Data Analyst
               </div>
             </div>
           </figcaption>
